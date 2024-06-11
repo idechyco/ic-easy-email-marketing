@@ -91,7 +91,7 @@ function Email_visaline_contact_page(){
   
 
 function Email_visaline_add_contact_page(){
-    echo '<h1افزودن مخاطب</h1>';
+    echo '<h1>افزودن مخاطب</h1>';
 
 }
     
